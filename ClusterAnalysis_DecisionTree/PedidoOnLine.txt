@@ -1,0 +1,2745 @@
+Idade	Genero	Estado_civil	Renda_mensal	Refeicao_mais_frequente	Avaliacao_media_anterior	Influenciado_por_nota
+23	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+20	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Feminino	Casado	Mais de 5.000	Café da manhã	< 4,5	1
+33	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+29	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+21	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+24	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+25	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+33	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+34	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+24	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	0
+27	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+33	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Feminino	Casado	Até 5.000	Lanches	< 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+32	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+38	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+21	Masculino	Solteiro	Até 5.000	Café da manhã	< 4,5	1
+28	Feminino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+19	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Casado	Mais de 5.000	Lanches	< 4,5	0
+23	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+23	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+34	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	0
+20	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+51	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+39	Masculino	Casado	Até 5.000	Café da manhã	< 4,5	1
+36	Masculino	Casado	Mais de 5.000	Almoço	< 4,5	0
+21	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+30	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+22	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+27	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+32	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+29	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+43	Feminino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+32	Feminino	Casado	Mais de 5.000	Café da manhã	< 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Feminino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+23	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	0
+25	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+21	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+31	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	0
+52	Feminino	Outros	Até 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+25	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	0
+27	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+56	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+36	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+24	Masculino	Outros	Até 5.000	Almoço	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+38	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+29	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+32	Feminino	Casado	Mais de 5.000	Jantar	< 4,5	0
+34	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+42	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+23	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+31	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	0
+37	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+36	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+29	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	1
+35	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	1
+28	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+27	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+19	Masculino	Casado	Até 5.000	Almoço	>= 4,5	0
+31	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+32	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+29	Feminino	Solteiro	Até 5.000	Jantar	>= 4,5	0
+25	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+31	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+21	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+31	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+28	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+20	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+20	Feminino	Casado	Até 5.000	Almoço	>= 4,5	1
+28	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+29	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	0
+34	Feminino	Casado	Até 5.000	Almoço	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	0
+31	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+21	Feminino	Casado	Até 5.000	Almoço	< 4,5	0
+21	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+21	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+27	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+27	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+32	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+22	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+52	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+21	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	0
+27	Feminino	Outros	Mais de 5.000	Jantar	< 4,5	0
+38	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+64	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+30	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	0
+42	Feminino	Casado	Até 5.000	Lanches	>= 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	0
+38	Feminino	Solteiro	Até 5.000	Almoço	< 4,5	0
+30	Masculino	Casado	Até 5.000	Lanches	>= 4,5	1
+24	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+22	Masculino	Casado	Mais de 5.000	Almoço	< 4,5	0
+32	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+33	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+37	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+26	Masculino	Outros	Mais de 5.000	Café da manhã	>= 4,5	1
+36	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+36	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+30	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+21	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+21	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+30	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+30	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+26	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+21	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+34	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+24	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+26	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+20	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+18	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	0
+36	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+44	Masculino	Outros	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+21	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+32	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+25	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+36	Masculino	Outros	Mais de 5.000	Almoço	>= 4,5	0
+31	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+29	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+30	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+19	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	1
+32	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+22	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+37	Masculino	Casado	Até 5.000	Almoço	< 4,5	1
+33	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+31	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+40	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+31	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+19	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+30	Masculino	Casado	Mais de 5.000	Jantar	< 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+40	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+29	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+22	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+28	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+40	Feminino	Casado	Até 5.000	Jantar	< 4,5	0
+25	Feminino	Solteiro	Até 5.000	Jantar	< 4,5	1
+34	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+44	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+26	Masculino	Casado	Mais de 5.000	Lanches	< 4,5	0
+27	Masculino	Outros	Mais de 5.000	Jantar	>= 4,5	1
+34	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+21	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+19	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+18	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+27	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+35	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+24	Masculino	Casado	Até 5.000	Almoço	>= 4,5	0
+24	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+32	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+37	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+38	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+22	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+38	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+29	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	0
+34	Feminino	Casado	Mais de 5.000	Lanches	< 4,5	0
+34	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Casado	Até 5.000	Jantar	< 4,5	0
+45	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+30	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+20	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+19	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+25	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+48	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+35	Feminino	Casado	Até 5.000	Almoço	< 4,5	1
+41	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+26	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+24	Feminino	Outros	Até 5.000	Lanches	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	0
+22	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+25	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	1
+44	Feminino	Outros	Até 5.000	Lanches	< 4,5	0
+23	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+19	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+22	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+24	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+34	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+32	Masculino	Outros	Mais de 5.000	Lanches	>= 4,5	1
+34	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	0
+26	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+31	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+33	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+33	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	1
+23	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+28	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	0
+19	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+29	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+34	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+19	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+34	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+24	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+24	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+34	Feminino	Outros	Mais de 5.000	Lanches	< 4,5	0
+29	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+22	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+21	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+47	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+25	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+29	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+32	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+30	Feminino	Solteiro	Até 5.000	Almoço	< 4,5	0
+27	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+20	Masculino	Casado	Até 5.000	Lanches	>= 4,5	1
+32	Feminino	Outros	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+28	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+28	Feminino	Casado	Até 5.000	Lanches	>= 4,5	0
+36	Masculino	Outros	Até 5.000	Café da manhã	>= 4,5	1
+32	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+24	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+25	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+21	Masculino	Casado	Mais de 5.000	Almoço	< 4,5	0
+37	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+30	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+18	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+31	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+35	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+27	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+23	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+19	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+38	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+18	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+32	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+21	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	0
+46	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+23	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	1
+22	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+43	Masculino	Outros	Mais de 5.000	Jantar	>= 4,5	0
+23	Masculino	Casado	Mais de 5.000	Almoço	< 4,5	0
+40	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+33	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+30	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+25	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+19	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+28	Feminino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+21	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+29	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	0
+20	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+28	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	0
+25	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+25	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+42	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+18	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+22	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+46	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+38	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+30	Feminino	Outros	Mais de 5.000	Lanches	>= 4,5	1
+21	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+27	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+38	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+29	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+29	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+33	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+25	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Outros	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+25	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+41	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+31	Masculino	Solteiro	Até 5.000	Café da manhã	< 4,5	0
+25	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Feminino	Casado	Até 5.000	Almoço	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Feminino	Casado	Até 5.000	Lanches	>= 4,5	0
+28	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+33	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+24	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+28	Feminino	Casado	Até 5.000	Lanches	< 4,5	0
+20	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+21	Feminino	Solteiro	Até 5.000	Jantar	< 4,5	1
+20	Feminino	Solteiro	Até 5.000	Café da manhã	< 4,5	0
+26	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+41	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+20	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+22	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+35	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+28	Feminino	Casado	Mais de 5.000	Lanches	< 4,5	0
+24	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+20	Feminino	Outros	Mais de 5.000	Almoço	< 4,5	1
+19	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+27	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+28	Feminino	Outros	Mais de 5.000	Jantar	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+52	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+23	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+29	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+48	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+24	Feminino	Outros	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+49	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+36	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+37	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+21	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+48	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+19	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+31	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+21	Masculino	Casado	Até 5.000	Almoço	>= 4,5	0
+20	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+29	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+20	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+33	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+49	Masculino	Casado	Até 5.000	Lanches	< 4,5	0
+34	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+22	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+27	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+28	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+28	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+31	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+37	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+29	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+29	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+29	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+25	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+19	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+23	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+46	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+38	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+38	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+31	Masculino	Casado	Até 5.000	Lanches	< 4,5	1
+30	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+34	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+32	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	1
+31	Feminino	Outros	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+26	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+20	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+28	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+19	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+21	Feminino	Casado	Mais de 5.000	Café da manhã	< 4,5	1
+19	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+22	Feminino	Casado	Mais de 5.000	Jantar	>= 4,5	0
+27	Feminino	Outros	Mais de 5.000	Almoço	>= 4,5	0
+19	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+40	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+28	Masculino	Casado	Mais de 5.000	Almoço	< 4,5	1
+24	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+29	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+26	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+47	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+36	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+31	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+21	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+30	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+33	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+31	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+32	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Outros	Mais de 5.000	Almoço	>= 4,5	1
+28	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+38	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+21	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+40	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+24	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+29	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+30	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+33	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+26	Masculino	Casado	Até 5.000	Lanches	< 4,5	1
+36	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+25	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+21	Masculino	Casado	Mais de 5.000	Lanches	< 4,5	1
+25	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	0
+40	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	1
+19	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+30	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+33	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+62	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+28	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+21	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+27	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+38	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+29	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+28	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Feminino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+19	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+36	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	0
+21	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+33	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+22	Feminino	Casado	Até 5.000	Lanches	>= 4,5	0
+33	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+19	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+31	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+22	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+35	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+50	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+25	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+30	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+26	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+30	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+40	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+29	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+31	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+19	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+33	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+33	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+37	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+19	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+28	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+42	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+47	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+42	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+22	Feminino	Casado	Até 5.000	Almoço	>= 4,5	1
+38	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	0
+21	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+33	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	1
+36	Feminino	Outros	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+28	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+23	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+21	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+19	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+33	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+37	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+19	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+31	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+29	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+29	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+31	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+21	Feminino	Casado	Até 5.000	Almoço	>= 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+25	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+30	Feminino	Casado	Até 5.000	Almoço	>= 4,5	1
+23	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+35	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+44	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	0
+32	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+37	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+21	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+40	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+35	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+24	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+34	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+25	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+20	Feminino	Solteiro	Até 5.000	Jantar	< 4,5	0
+31	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+23	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+39	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+38	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+29	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+23	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+28	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+23	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+23	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+31	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+27	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+36	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	1
+27	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Masculino	Solteiro	Até 5.000	Café da manhã	< 4,5	0
+26	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+21	Feminino	Casado	Mais de 5.000	Lanches	< 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+30	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+19	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+25	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+22	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+24	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+29	Feminino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+41	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	0
+19	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+23	Masculino	Casado	Até 5.000	Almoço	>= 4,5	0
+27	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+24	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+32	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+24	Masculino	Casado	Até 5.000	Jantar	< 4,5	1
+28	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+19	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+37	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+32	Masculino	Outros	Até 5.000	Jantar	>= 4,5	0
+21	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+28	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+47	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+31	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+31	Feminino	Outros	Mais de 5.000	Lanches	>= 4,5	1
+23	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+36	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+31	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+32	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+25	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+33	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+19	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+29	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+42	Feminino	Outros	Até 5.000	Lanches	>= 4,5	0
+26	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+25	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+26	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+31	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+26	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+47	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+33	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+51	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+39	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+41	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+24	Feminino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+24	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+29	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+27	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+34	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+47	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+27	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+63	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+36	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+29	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+19	Feminino	Casado	Até 5.000	Lanches	>= 4,5	0
+28	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+29	Feminino	Casado	Até 5.000	Lanches	>= 4,5	0
+25	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+22	Masculino	Casado	Até 5.000	Jantar	< 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+34	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+35	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+32	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+26	Masculino	Outros	Até 5.000	Lanches	>= 4,5	1
+24	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+32	Masculino	Casado	Até 5.000	Jantar	< 4,5	0
+26	Feminino	Casado	Mais de 5.000	Jantar	< 4,5	0
+34	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Feminino	Solteiro	Até 5.000	Jantar	< 4,5	0
+29	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+32	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+41	Masculino	Casado	Até 5.000	Jantar	< 4,5	1
+31	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+22	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+22	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+36	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+41	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+27	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+27	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+18	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+41	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	0
+24	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	0
+33	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+28	Masculino	Casado	Mais de 5.000	Lanches	< 4,5	0
+19	Feminino	Outros	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+46	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+28	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+40	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+37	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+39	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+20	Feminino	Casado	Até 5.000	Lanches	>= 4,5	1
+26	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+43	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+31	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+30	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	0
+40	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	0
+40	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+23	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+38	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+27	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+35	Masculino	Solteiro	Até 5.000	Lanches	< 4,5	0
+18	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+34	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+27	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+21	Feminino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+27	Feminino	Casado	Mais de 5.000	Lanches	< 4,5	0
+44	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+24	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+23	Feminino	Casado	Até 5.000	Almoço	>= 4,5	0
+44	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+26	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+34	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+20	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+33	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+21	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+47	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+36	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+26	Masculino	Outros	Até 5.000	Almoço	< 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+40	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+47	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+38	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+33	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+25	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+25	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+34	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+25	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+26	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	0
+35	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+33	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+30	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+38	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+29	Masculino	Solteiro	Até 5.000	Café da manhã	< 4,5	0
+21	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	0
+39	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	1
+36	Masculino	Casado	Até 5.000	Café da manhã	< 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+32	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+23	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+51	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+20	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+29	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+38	Feminino	Casado	Até 5.000	Almoço	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+19	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+36	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+24	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+24	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+23	Masculino	Solteiro	Até 5.000	Lanches	< 4,5	0
+27	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+22	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+31	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+19	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+35	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+26	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+21	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+37	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+42	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+23	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+25	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+32	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+37	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+27	Masculino	Casado	Até 5.000	Almoço	< 4,5	0
+61	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+48	Feminino	Casado	Mais de 5.000	Almoço	< 4,5	1
+25	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+40	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+35	Feminino	Outros	Mais de 5.000	Café da manhã	>= 4,5	1
+19	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Casado	Até 5.000	Lanches	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+19	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+22	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+35	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+25	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+38	Masculino	Casado	Mais de 5.000	Almoço	< 4,5	1
+32	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+33	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+35	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+22	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+27	Masculino	Casado	Até 5.000	Jantar	>= 4,5	1
+24	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+34	Feminino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+21	Feminino	Outros	Mais de 5.000	Café da manhã	>= 4,5	1
+29	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+29	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+38	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+24	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+20	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+21	Masculino	Casado	Mais de 5.000	Lanches	< 4,5	0
+25	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+21	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+29	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+22	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	1
+28	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+19	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+30	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	0
+38	Masculino	Casado	Mais de 5.000	Almoço	< 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+24	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+35	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+21	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+29	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+27	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+28	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	0
+25	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+19	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+32	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+22	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+24	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+30	Masculino	Casado	Até 5.000	Jantar	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+36	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+28	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+34	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+38	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+33	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+20	Feminino	Outros	Mais de 5.000	Lanches	>= 4,5	1
+37	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+34	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+32	Masculino	Casado	Até 5.000	Almoço	>= 4,5	0
+26	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+30	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+23	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+33	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+19	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+26	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+24	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+19	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+34	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+30	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+35	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+23	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+27	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	0
+25	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+30	Feminino	Outros	Mais de 5.000	Café da manhã	< 4,5	1
+27	Feminino	Solteiro	Até 5.000	Jantar	< 4,5	1
+19	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+24	Masculino	Casado	Mais de 5.000	Lanches	< 4,5	0
+24	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+40	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+32	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+38	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+30	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+26	Feminino	Casado	Até 5.000	Lanches	>= 4,5	0
+36	Masculino	Casado	Até 5.000	Almoço	>= 4,5	0
+22	Feminino	Casado	Até 5.000	Almoço	>= 4,5	1
+22	Feminino	Outros	Mais de 5.000	Café da manhã	>= 4,5	0
+43	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+27	Feminino	Casado	Até 5.000	Lanches	< 4,5	0
+23	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Outros	Mais de 5.000	Lanches	>= 4,5	1
+34	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	0
+36	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+36	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+20	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+30	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	0
+37	Feminino	Casado	Até 5.000	Almoço	>= 4,5	0
+27	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+32	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+25	Feminino	Casado	Mais de 5.000	Lanches	< 4,5	0
+36	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+23	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+19	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+19	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+34	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+31	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+24	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+41	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+42	Feminino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+43	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+27	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+21	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Casado	Até 5.000	Jantar	< 4,5	1
+22	Feminino	Solteiro	Até 5.000	Jantar	>= 4,5	0
+34	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+41	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+27	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+33	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+27	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+34	Feminino	Outros	Até 5.000	Jantar	< 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+32	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+30	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+38	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+20	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+28	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+29	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+35	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Feminino	Casado	Mais de 5.000	Lanches	< 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+31	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+33	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Outros	Mais de 5.000	Café da manhã	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+36	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+20	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+36	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+26	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+25	Feminino	Casado	Até 5.000	Jantar	>= 4,5	1
+35	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Masculino	Casado	Até 5.000	Almoço	>= 4,5	0
+31	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+34	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+29	Feminino	Casado	Até 5.000	Almoço	>= 4,5	0
+24	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+25	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	0
+19	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+22	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+48	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+22	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	0
+29	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+20	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+21	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+23	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+29	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+54	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+27	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+27	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+19	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+28	Feminino	Casado	Até 5.000	Almoço	>= 4,5	0
+23	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+28	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+29	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+35	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+23	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+29	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+25	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+40	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+31	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+35	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+23	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+30	Feminino	Outros	Mais de 5.000	Café da manhã	< 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+28	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+24	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+32	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+25	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+34	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+27	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+32	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+26	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+30	Feminino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+47	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+33	Feminino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+22	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+29	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+27	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+25	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+25	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+44	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+30	Feminino	Casado	Mais de 5.000	Almoço	< 4,5	0
+35	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+26	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+45	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+33	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+39	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+28	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+29	Masculino	Outros	Mais de 5.000	Café da manhã	>= 4,5	0
+29	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Casado	Até 5.000	Almoço	>= 4,5	0
+27	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	0
+40	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+44	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+23	Masculino	Solteiro	Até 5.000	Lanches	< 4,5	0
+42	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+31	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+30	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+35	Masculino	Outros	Mais de 5.000	Almoço	>= 4,5	1
+34	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+23	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	0
+27	Masculino	Casado	Até 5.000	Almoço	< 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+27	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+34	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+27	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+21	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+19	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+31	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+24	Feminino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+45	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+23	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+19	Feminino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+44	Masculino	Casado	Até 5.000	Lanches	< 4,5	0
+32	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+28	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+39	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+30	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+56	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+38	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+26	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+26	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	0
+27	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+41	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+37	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+19	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+25	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	0
+29	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+30	Masculino	Casado	Mais de 5.000	Lanches	< 4,5	0
+34	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+48	Feminino	Casado	Até 5.000	Lanches	>= 4,5	0
+27	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+20	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+39	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+36	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Feminino	Casado	Até 5.000	Lanches	>= 4,5	0
+29	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+37	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+33	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+23	Masculino	Outros	Mais de 5.000	Lanches	>= 4,5	1
+19	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+29	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	0
+30	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+32	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+28	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+24	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+40	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+43	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+22	Feminino	Solteiro	Até 5.000	Café da manhã	< 4,5	0
+29	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+35	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+40	Feminino	Casado	Até 5.000	Almoço	>= 4,5	1
+24	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+29	Masculino	Outros	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+33	Feminino	Outros	Mais de 5.000	Café da manhã	>= 4,5	0
+29	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+19	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+35	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+22	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+40	Masculino	Casado	Mais de 5.000	Almoço	< 4,5	0
+25	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Almoço	< 4,5	0
+27	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+24	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+21	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+30	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Feminino	Solteiro	Até 5.000	Jantar	< 4,5	1
+42	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+22	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+36	Feminino	Solteiro	Até 5.000	Almoço	< 4,5	0
+34	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+35	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+19	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+27	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	0
+28	Masculino	Casado	Até 5.000	Almoço	< 4,5	1
+19	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+24	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+38	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+25	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+39	Feminino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+28	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	0
+22	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+21	Feminino	Outros	Até 5.000	Lanches	>= 4,5	0
+31	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+32	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+42	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+21	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+19	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+44	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+31	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+28	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+30	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+42	Feminino	Solteiro	Até 5.000	Almoço	< 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+41	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+41	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+23	Feminino	Casado	Até 5.000	Lanches	>= 4,5	0
+28	Masculino	Solteiro	Até 5.000	Café da manhã	< 4,5	0
+29	Masculino	Outros	Mais de 5.000	Café da manhã	>= 4,5	0
+29	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+42	Masculino	Casado	Até 5.000	Jantar	< 4,5	0
+31	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+36	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+35	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+22	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+34	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+36	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+43	Feminino	Solteiro	Até 5.000	Jantar	< 4,5	1
+19	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+29	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+28	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+28	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+19	Feminino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+24	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+22	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+29	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+19	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+32	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+21	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	1
+65	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+35	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+22	Feminino	Casado	Até 5.000	Lanches	< 4,5	1
+34	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+38	Masculino	Outros	Mais de 5.000	Almoço	< 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+48	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+59	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+35	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+32	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+22	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	0
+39	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+22	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+43	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+20	Feminino	Casado	Até 5.000	Lanches	>= 4,5	0
+32	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+27	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+20	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+45	Feminino	Outros	Mais de 5.000	Almoço	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+39	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+31	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+44	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+38	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+33	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+28	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+23	Feminino	Outros	Mais de 5.000	Lanches	>= 4,5	0
+33	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	1
+22	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+32	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+26	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+19	Feminino	Casado	Até 5.000	Almoço	>= 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+31	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+24	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+31	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+22	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+35	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+30	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+27	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+23	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+24	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+40	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+42	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+28	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Casado	Até 5.000	Almoço	>= 4,5	0
+26	Feminino	Solteiro	Até 5.000	Lanches	< 4,5	0
+25	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+20	Feminino	Casado	Até 5.000	Almoço	>= 4,5	1
+27	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	0
+30	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+45	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+39	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	0
+31	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+41	Feminino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+30	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+27	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+29	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+27	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Feminino	Casado	Até 5.000	Lanches	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+42	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+25	Masculino	Casado	Mais de 5.000	Jantar	< 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+56	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+30	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+38	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	0
+28	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+37	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+29	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+28	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+21	Masculino	Casado	Até 5.000	Jantar	>= 4,5	0
+22	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+36	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+22	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+34	Masculino	Outros	Mais de 5.000	Lanches	< 4,5	0
+24	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+43	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+24	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+20	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+33	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+28	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+30	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+24	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+44	Feminino	Solteiro	Até 5.000	Jantar	>= 4,5	0
+26	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+31	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+20	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+30	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+76	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+22	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+44	Masculino	Solteiro	Até 5.000	Lanches	< 4,5	1
+26	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	0
+23	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+52	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Feminino	Solteiro	Até 5.000	Lanches	< 4,5	0
+29	Masculino	Outros	Até 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+34	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+22	Feminino	Casado	Mais de 5.000	Almoço	< 4,5	1
+30	Feminino	Solteiro	Até 5.000	Lanches	< 4,5	0
+37	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+19	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+34	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+22	Feminino	Casado	Até 5.000	Almoço	>= 4,5	0
+27	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+36	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+21	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+37	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Feminino	Outros	Até 5.000	Almoço	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+29	Masculino	Casado	Mais de 5.000	Lanches	< 4,5	0
+27	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+30	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+23	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+37	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	0
+24	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+24	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+33	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+20	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+43	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+31	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+34	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+35	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+36	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+31	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+18	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+24	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+39	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+33	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+39	Feminino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+46	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+39	Feminino	Casado	Até 5.000	Café da manhã	< 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+34	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+33	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+32	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+37	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+35	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	0
+19	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+45	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+33	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+20	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+24	Feminino	Outros	Mais de 5.000	Lanches	>= 4,5	0
+43	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+31	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+31	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+32	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+24	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+19	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+35	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+19	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+33	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+40	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+26	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+32	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+29	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+29	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	0
+33	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+31	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	0
+20	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+32	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+27	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+31	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+48	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+32	Feminino	Solteiro	Até 5.000	Café da manhã	< 4,5	1
+24	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+38	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+24	Feminino	Casado	Até 5.000	Lanches	< 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+32	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+36	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+33	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+45	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+20	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+27	Masculino	Outros	Até 5.000	Almoço	< 4,5	0
+28	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+24	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	0
+32	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	0
+27	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+23	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+31	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+32	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+69	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	0
+22	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+28	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+29	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+29	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+30	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+35	Feminino	Casado	Até 5.000	Lanches	>= 4,5	0
+20	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+23	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+39	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+28	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+33	Masculino	Outros	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+24	Feminino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+23	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+24	Feminino	Casado	Até 5.000	Lanches	>= 4,5	0
+21	Feminino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+24	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+22	Masculino	Solteiro	Até 5.000	Lanches	< 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+30	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+48	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+24	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+45	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+27	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+25	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	0
+21	Masculino	Casado	Até 5.000	Lanches	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+21	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+19	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+20	Masculino	Casado	Até 5.000	Lanches	>= 4,5	1
+25	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+34	Masculino	Solteiro	Até 5.000	Lanches	< 4,5	0
+20	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+21	Feminino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+26	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+29	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	0
+30	Masculino	Outros	Mais de 5.000	Almoço	>= 4,5	1
+20	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+20	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+23	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+30	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+36	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+29	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Outros	Mais de 5.000	Café da manhã	>= 4,5	1
+33	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+21	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	1
+49	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	1
+30	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+36	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Almoço	< 4,5	0
+24	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+30	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+34	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+40	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+29	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+26	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+29	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	0
+21	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+23	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	1
+30	Feminino	Outros	Até 5.000	Almoço	>= 4,5	0
+26	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+32	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+41	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Feminino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+37	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+26	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	0
+32	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+21	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+34	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+33	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+22	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	0
+20	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+19	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+34	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+46	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Feminino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+21	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+18	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+30	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+22	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+38	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+30	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	0
+34	Masculino	Solteiro	Até 5.000	Lanches	< 4,5	1
+37	Feminino	Casado	Até 5.000	Lanches	>= 4,5	0
+39	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+36	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+27	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+34	Feminino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+24	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	0
+30	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+26	Feminino	Solteiro	Até 5.000	Lanches	< 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+21	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+19	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+27	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+29	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+18	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+31	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+28	Masculino	Casado	Mais de 5.000	Jantar	< 4,5	0
+22	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	0
+25	Feminino	Casado	Mais de 5.000	Café da manhã	< 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+30	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+28	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+21	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+30	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+20	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+28	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+22	Feminino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+30	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+36	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+36	Feminino	Casado	Até 5.000	Almoço	< 4,5	0
+42	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+34	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+27	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+25	Masculino	Casado	Até 5.000	Jantar	>= 4,5	0
+32	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	0
+29	Feminino	Solteiro	Até 5.000	Almoço	< 4,5	1
+28	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+31	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+23	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+38	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+24	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+36	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+28	Feminino	Casado	Até 5.000	Jantar	>= 4,5	0
+37	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+36	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+36	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+22	Feminino	Outros	Mais de 5.000	Almoço	< 4,5	1
+19	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+34	Masculino	Outros	Mais de 5.000	Lanches	< 4,5	0
+42	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+34	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+31	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+26	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+28	Feminino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+35	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+23	Feminino	Solteiro	Até 5.000	Jantar	< 4,5	0
+21	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	0
+28	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+46	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+34	Masculino	Casado	Até 5.000	Jantar	>= 4,5	0
+26	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+43	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+28	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+60	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+47	Masculino	Casado	Mais de 5.000	Lanches	< 4,5	0
+35	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+40	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+30	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+36	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+48	Masculino	Casado	Mais de 5.000	Lanches	< 4,5	1
+56	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+24	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Outros	Mais de 5.000	Lanches	>= 4,5	1
+29	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+38	Masculino	Casado	Até 5.000	Almoço	>= 4,5	0
+23	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+22	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+48	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+29	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+49	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+32	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	1
+38	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+30	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+23	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+28	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+31	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+47	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+34	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+24	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Almoço	< 4,5	0
+26	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+28	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+36	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+35	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+55	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+25	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	0
+28	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+39	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+23	Feminino	Outros	Mais de 5.000	Almoço	>= 4,5	1
+31	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+45	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+30	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+22	Feminino	Outros	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+23	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+21	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+19	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+36	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+56	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+34	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+29	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+20	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+25	Masculino	Outros	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+24	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+24	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	1
+26	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+32	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+29	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+47	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+27	Masculino	Casado	Mais de 5.000	Lanches	< 4,5	1
+21	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	0
+43	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+27	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	0
+34	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+23	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+25	Masculino	Casado	Até 5.000	Almoço	>= 4,5	0
+26	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+50	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+22	Feminino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+21	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+24	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+40	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+34	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+29	Feminino	Casado	Até 5.000	Jantar	>= 4,5	0
+29	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+32	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+36	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	0
+31	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+44	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+35	Feminino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+29	Feminino	Outros	Mais de 5.000	Almoço	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+39	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+20	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+45	Feminino	Solteiro	Até 5.000	Almoço	< 4,5	0
+21	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+19	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	0
+20	Feminino	Casado	Até 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+31	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+33	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+20	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+33	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+29	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+29	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+44	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+26	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	0
+22	Feminino	Casado	Mais de 5.000	Café da manhã	< 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+22	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+38	Feminino	Outros	Mais de 5.000	Jantar	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+22	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+22	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+46	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+24	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+19	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+39	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+36	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+19	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+32	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+32	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+35	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	0
+29	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+30	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+39	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+31	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+38	Feminino	Solteiro	Até 5.000	Café da manhã	< 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Casado	Mais de 5.000	Almoço	< 4,5	1
+44	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+28	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	0
+37	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+19	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+27	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+31	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+23	Masculino	Casado	Mais de 5.000	Lanches	< 4,5	0
+42	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+25	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+31	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+23	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+25	Masculino	Casado	Até 5.000	Almoço	>= 4,5	0
+31	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+34	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+23	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+23	Feminino	Solteiro	Até 5.000	Café da manhã	< 4,5	0
+33	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+22	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+40	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+24	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	0
+51	Feminino	Solteiro	Até 5.000	Café da manhã	< 4,5	0
+24	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+26	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+27	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+31	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+23	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	0
+20	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+39	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+28	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+37	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+27	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+35	Masculino	Casado	Até 5.000	Lanches	< 4,5	1
+22	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+29	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+29	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+21	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+20	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+21	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+20	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Feminino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+37	Feminino	Solteiro	Até 5.000	Café da manhã	< 4,5	1
+36	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	0
+18	Masculino	Casado	Até 5.000	Lanches	>= 4,5	1
+19	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+37	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Feminino	Casado	Até 5.000	Jantar	>= 4,5	0
+24	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+31	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+40	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+36	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+27	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+40	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+26	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+29	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+38	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+30	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+23	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+21	Masculino	Casado	Até 5.000	Jantar	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+39	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+31	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+24	Feminino	Casado	Mais de 5.000	Lanches	< 4,5	0
+27	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+22	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+23	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+24	Feminino	Casado	Até 5.000	Jantar	>= 4,5	1
+32	Feminino	Outros	Até 5.000	Almoço	>= 4,5	1
+39	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+31	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+32	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+19	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+27	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+18	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+41	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+31	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	0
+19	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+33	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+24	Masculino	Solteiro	Até 5.000	Lanches	< 4,5	0
+32	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+30	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+27	Feminino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+38	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+24	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+21	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+23	Feminino	Solteiro	Até 5.000	Jantar	< 4,5	0
+21	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+24	Feminino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+37	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Outros	Até 5.000	Café da manhã	>= 4,5	1
+29	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+20	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+33	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+20	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+39	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+27	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+21	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+19	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+33	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+30	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+22	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+40	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+19	Feminino	Solteiro	Até 5.000	Jantar	>= 4,5	0
+28	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+29	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+26	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+24	Masculino	Casado	Mais de 5.000	Lanches	< 4,5	0
+32	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+22	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+20	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+33	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+32	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+34	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+33	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	0
+25	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	0
+33	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+37	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+23	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+42	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+22	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+20	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+30	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+32	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+21	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+30	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+31	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+25	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Feminino	Solteiro	Até 5.000	Lanches	< 4,5	1
+43	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+21	Masculino	Outros	Mais de 5.000	Café da manhã	>= 4,5	0
+38	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+34	Masculino	Solteiro	Até 5.000	Lanches	< 4,5	0
+22	Masculino	Casado	Até 5.000	Jantar	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+31	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+26	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+27	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+23	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+23	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+23	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+26	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+26	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+21	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+40	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+22	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+43	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+36	Feminino	Casado	Até 5.000	Almoço	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+28	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+42	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+21	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+21	Feminino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+40	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+29	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+23	Masculino	Outros	Até 5.000	Café da manhã	>= 4,5	1
+31	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+34	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Feminino	Casado	Até 5.000	Lanches	>= 4,5	0
+27	Masculino	Outros	Mais de 5.000	Café da manhã	>= 4,5	0
+24	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+23	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+29	Feminino	Solteiro	Mais de 5.000	Almoço	< 4,5	0
+35	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+31	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+29	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+26	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+30	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+31	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+37	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+33	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+26	Feminino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+24	Feminino	Casado	Até 5.000	Jantar	< 4,5	0
+32	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+27	Masculino	Casado	Até 5.000	Lanches	>= 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+39	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+31	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+30	Masculino	Outros	Mais de 5.000	Almoço	>= 4,5	1
+35	Masculino	Solteiro	Até 5.000	Lanches	< 4,5	1
+21	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+25	Masculino	Casado	Até 5.000	Jantar	>= 4,5	0
+24	Feminino	Outros	Até 5.000	Lanches	>= 4,5	0
+22	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+31	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+25	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+19	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+36	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+34	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Feminino	Solteiro	Até 5.000	Jantar	< 4,5	1
+29	Feminino	Casado	Até 5.000	Lanches	>= 4,5	0
+38	Feminino	Solteiro	Mais de 5.000	Almoço	< 4,5	0
+23	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+24	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+22	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	1
+21	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+21	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+18	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+28	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+29	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+26	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+29	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+37	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+21	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+32	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+25	Feminino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+36	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+36	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+20	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+39	Feminino	Casado	Até 5.000	Almoço	>= 4,5	1
+38	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+28	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+29	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+40	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+25	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+20	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+27	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+24	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+21	Masculino	Casado	Até 5.000	Lanches	< 4,5	1
+24	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+48	Masculino	Outros	Até 5.000	Jantar	< 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+27	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+38	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+24	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+23	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+31	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+25	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+19	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+31	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+30	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+24	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	0
+24	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+23	Feminino	Outros	Até 5.000	Almoço	< 4,5	0
+32	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+29	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	0
+19	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+21	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+21	Masculino	Casado	Mais de 5.000	Lanches	< 4,5	0
+31	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+39	Feminino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+21	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+26	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+28	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+19	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+23	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+36	Masculino	Outros	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+25	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	0
+35	Feminino	Casado	Mais de 5.000	Almoço	< 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+37	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+29	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+20	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+25	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+45	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+29	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+20	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+35	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+19	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+25	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+19	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+41	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+27	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+25	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+37	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+34	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+27	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+26	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+21	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+28	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+25	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+26	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+27	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+28	Feminino	Outros	Até 5.000	Almoço	>= 4,5	0
+27	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+19	Masculino	Solteiro	Até 5.000	Jantar	>= 4,5	0
+20	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+19	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+43	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+37	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+36	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+25	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+36	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+39	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+34	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+25	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+32	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Outros	Mais de 5.000	Café da manhã	>= 4,5	1
+30	Feminino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+28	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+38	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+39	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+33	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+19	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+38	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+31	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+23	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+25	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+30	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+32	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+42	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+21	Feminino	Casado	Até 5.000	Almoço	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Masculino	Casado	Mais de 5.000	Lanches	< 4,5	0
+21	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+30	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+46	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+30	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+39	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Feminino	Outros	Mais de 5.000	Café da manhã	>= 4,5	1
+23	Feminino	Casado	Até 5.000	Jantar	< 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+30	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+20	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+36	Masculino	Outros	Mais de 5.000	Almoço	>= 4,5	1
+34	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+23	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	0
+36	Masculino	Casado	Até 5.000	Almoço	< 4,5	0
+26	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+42	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+20	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+33	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+42	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+49	Masculino	Casado	Até 5.000	Almoço	< 4,5	0
+42	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+44	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+25	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+20	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+23	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+24	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+20	Masculino	Casado	Mais de 5.000	Lanches	< 4,5	0
+28	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+45	Feminino	Solteiro	Mais de 5.000	Almoço	< 4,5	0
+21	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+34	Masculino	Outros	Até 5.000	Jantar	>= 4,5	1
+29	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+32	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+25	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+41	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+22	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+26	Masculino	Casado	Mais de 5.000	Lanches	< 4,5	0
+34	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+26	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+29	Masculino	Casado	Mais de 5.000	Jantar	< 4,5	1
+26	Feminino	Casado	Mais de 5.000	Lanches	< 4,5	0
+20	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+26	Feminino	Outros	Mais de 5.000	Almoço	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+20	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+22	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+29	Masculino	Solteiro	Até 5.000	Lanches	< 4,5	1
+56	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+28	Feminino	Casado	Até 5.000	Almoço	>= 4,5	1
+31	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+38	Feminino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+26	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+38	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+27	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+28	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+33	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+32	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+31	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+24	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+34	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+21	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+25	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+26	Feminino	Casado	Até 5.000	Almoço	>= 4,5	0
+25	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+23	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+22	Masculino	Solteiro	Até 5.000	Lanches	< 4,5	0
+42	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+22	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+39	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+27	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+24	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+44	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+35	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+30	Feminino	Casado	Mais de 5.000	Jantar	< 4,5	1
+29	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Casado	Até 5.000	Lanches	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+24	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+30	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+25	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+21	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+27	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+19	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+21	Feminino	Casado	Até 5.000	Café da manhã	< 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+25	Masculino	Outros	Mais de 5.000	Almoço	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+36	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+37	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+30	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+26	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+32	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	1
+37	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	0
+21	Feminino	Solteiro	Mais de 5.000	Almoço	< 4,5	0
+22	Feminino	Outros	Até 5.000	Café da manhã	>= 4,5	1
+37	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+25	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	0
+30	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Outros	Até 5.000	Almoço	>= 4,5	1
+24	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+40	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+43	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+23	Masculino	Casado	Até 5.000	Almoço	>= 4,5	0
+20	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+19	Feminino	Outros	Mais de 5.000	Lanches	>= 4,5	1
+34	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+27	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+21	Feminino	Casado	Mais de 5.000	Jantar	< 4,5	0
+29	Feminino	Casado	Até 5.000	Jantar	< 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+34	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+29	Feminino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+34	Masculino	Casado	Até 5.000	Almoço	>= 4,5	0
+28	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+29	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	1
+21	Feminino	Casado	Até 5.000	Lanches	>= 4,5	0
+27	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+54	Masculino	Casado	Mais de 5.000	Lanches	< 4,5	0
+34	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+23	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+27	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+30	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+27	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+27	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+40	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+22	Masculino	Casado	Até 5.000	Almoço	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+35	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+39	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+31	Feminino	Casado	Mais de 5.000	Almoço	< 4,5	0
+21	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+37	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+42	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+19	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+38	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+18	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+36	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+33	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+20	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+35	Feminino	Casado	Até 5.000	Almoço	>= 4,5	0
+27	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+36	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+38	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+37	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+21	Feminino	Casado	Mais de 5.000	Almoço	< 4,5	1
+35	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+19	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+20	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+40	Feminino	Casado	Até 5.000	Jantar	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+33	Feminino	Solteiro	Até 5.000	Almoço	< 4,5	1
+30	Masculino	Casado	Até 5.000	Lanches	< 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+34	Feminino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Jantar	< 4,5	0
+28	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+28	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+33	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+31	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Feminino	Solteiro	Até 5.000	Jantar	< 4,5	0
+39	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+24	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	0
+24	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	0
+44	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+30	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+34	Feminino	Solteiro	Até 5.000	Lanches	< 4,5	1
+29	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+20	Masculino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+27	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+38	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+19	Masculino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+34	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+48	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+56	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+28	Masculino	Casado	Até 5.000	Jantar	>= 4,5	0
+52	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+31	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+40	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	0
+31	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+25	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+22	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+32	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+21	Feminino	Solteiro	Mais de 5.000	Jantar	< 4,5	1
+24	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+37	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+39	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+23	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+21	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Feminino	Solteiro	Até 5.000	Jantar	< 4,5	0
+25	Feminino	Solteiro	Mais de 5.000	Lanches	< 4,5	1
+31	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+37	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	0
+30	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+29	Feminino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+28	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+40	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+27	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Casado	Mais de 5.000	Jantar	>= 4,5	0
+30	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+41	Feminino	Solteiro	Mais de 5.000	Almoço	< 4,5	0
+21	Feminino	Solteiro	Até 5.000	Jantar	< 4,5	0
+31	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+21	Feminino	Casado	Até 5.000	Lanches	>= 4,5	1
+30	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+30	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+29	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	0
+34	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	1
+23	Feminino	Casado	Até 5.000	Lanches	>= 4,5	0
+31	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+23	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+28	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+29	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+32	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+43	Feminino	Casado	Até 5.000	Jantar	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+33	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+37	Masculino	Casado	Até 5.000	Lanches	>= 4,5	1
+45	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+36	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+25	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+29	Feminino	Outros	Mais de 5.000	Jantar	>= 4,5	1
+35	Masculino	Outros	Mais de 5.000	Almoço	>= 4,5	1
+28	Masculino	Casado	Mais de 5.000	Café da manhã	< 4,5	0
+20	Masculino	Solteiro	Mais de 5.000	Lanches	< 4,5	0
+25	Masculino	Casado	Até 5.000	Lanches	< 4,5	0
+34	Masculino	Outros	Até 5.000	Café da manhã	>= 4,5	1
+37	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+23	Feminino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+35	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	0
+28	Masculino	Solteiro	Mais de 5.000	Almoço	< 4,5	0
+28	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+25	Feminino	Solteiro	Até 5.000	Jantar	< 4,5	1
+26	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+40	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+21	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Almoço	< 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+22	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+27	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+20	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+29	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	0
+39	Masculino	Solteiro	Até 5.000	Almoço	< 4,5	0
+36	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	0
+27	Feminino	Solteiro	Até 5.000	Jantar	< 4,5	1
+22	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+30	Feminino	Casado	Até 5.000	Almoço	>= 4,5	0
+39	Feminino	Solteiro	Até 5.000	Jantar	< 4,5	1
+25	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+33	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+25	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+34	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+21	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+54	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+20	Feminino	Casado	Mais de 5.000	Jantar	>= 4,5	1
+22	Masculino	Casado	Até 5.000	Lanches	>= 4,5	0
+29	Masculino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+26	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+20	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+37	Feminino	Casado	Até 5.000	Lanches	>= 4,5	0
+37	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	1
+23	Masculino	Casado	Mais de 5.000	Café da manhã	>= 4,5	1
+28	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+30	Masculino	Solteiro	Mais de 5.000	Café da manhã	< 4,5	0
+24	Feminino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	0
+29	Masculino	Casado	Até 5.000	Jantar	< 4,5	0
+59	Feminino	Solteiro	Até 5.000	Jantar	>= 4,5	1
+26	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+26	Feminino	Casado	Mais de 5.000	Almoço	>= 4,5	1
+23	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
+22	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+25	Feminino	Solteiro	Até 5.000	Almoço	>= 4,5	1
+32	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+31	Feminino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+20	Feminino	Casado	Até 5.000	Jantar	< 4,5	1
+45	Masculino	Solteiro	Até 5.000	Lanches	>= 4,5	0
+32	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+26	Masculino	Solteiro	Até 5.000	Jantar	< 4,5	0
+21	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+27	Feminino	Casado	Até 5.000	Café da manhã	>= 4,5	0
+26	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+51	Feminino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+24	Masculino	Solteiro	Mais de 5.000	Jantar	>= 4,5	1
+36	Masculino	Solteiro	Mais de 5.000	Café da manhã	>= 4,5	1
+25	Masculino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+37	Masculino	Casado	Mais de 5.000	Lanches	>= 4,5	1
+26	Masculino	Solteiro	Mais de 5.000	Almoço	>= 4,5	1
+36	Feminino	Solteiro	Até 5.000	Café da manhã	>= 4,5	1
+41	Masculino	Solteiro	Mais de 5.000	Lanches	>= 4,5	1
